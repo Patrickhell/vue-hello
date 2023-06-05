@@ -9,4 +9,4 @@ data() {
 }
 
 
-}).mount("#app")
+}).mount( "#app")
